@@ -359,4 +359,5 @@ Response<Data> resp = gson.fromJson(json, new TypeToken<Response<Data>>() {
 }.getType());
 System.out.println(resp.data.result);
 }
-![image](https://user-images.githubusercontent.com/9668006/110114909-4816aa00-7df0-11eb-81f0-4b95dfadce72.png)
+![image](https://user-images.githubusercontent.com/9668006/110115040-7a280c00-7df0-11eb-90f5-b85071d131f5.png)
+
